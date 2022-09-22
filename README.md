@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=trigaten&column=7)](https://github.com/trigaten)
+
 
 <!--
 **trigaten/trigaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
